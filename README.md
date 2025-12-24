@@ -1,4 +1,4 @@
-#  Motion Analysis & Data Structures Using Real-World Sensor Data
+#  Motion Analysis from Noisy GPS & Acceleration Data
 
 This project analyses **real-world GPS and accelerometer data** collected from an urban walking trajectory to study **motion patterns, sensor noise, and algorithmic data processing**.  
 The work combines **signal processing**, **custom data structures**, and **numerical optimisation** to extract reliable motion information from noisy measurements.
