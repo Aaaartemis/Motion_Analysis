@@ -52,7 +52,7 @@ The focus is on **robust algorithmic reasoning** under noisy, imperfect real-wor
 │   motion-mode transitions over time.
 │
 
-
+```
 ## How to Run the Project
 
 **Important Data Notice:**  
